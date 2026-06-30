@@ -5,7 +5,7 @@
 
 Soy un programador autodidacta en constante aprendizaje. Lo que empezó como curiosidad por la tecnología, se ha convertido en mi forma de construir mis propios proyectos. Me gusta meterle mano al código para que las cosas no solo funcionen, sino que se sientan bien al usarlas.
 
-*   **¿Qué hago?** Desarrollo web y herramientas digitales con un estilo visual marcado (Cyber-Glow).
+*   **¿Qué hago?** Desarrollo web y herramientas digitales con un estilo visual marcado.
 *   **¿Con qué trabajo?** Me muevo principalmente entre HTML, CSS, JavaScript y Kotlin, apoyándome en herramientas como Firebase y Vercel para que mis ideas cobren vida online.
 *   **Enfoque:** Más que solo programar, me gusta resolver problemas, ya sea creando sistemas de gestión para mi escuela o explorando nuevas formas de integrar IA en mis interfaces.
 

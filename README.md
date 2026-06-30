@@ -1,35 +1,39 @@
 # ¡Hola! Soy Josué 👋 
-## alias: josuexs / JosuexsDev 💻
+## alias: josuexs59 | Desarrollador y creador
+
+### Un poco sobre mi camino ⚡
+
+Soy un programador autodidacta en constante aprendizaje. Lo que empezó como curiosidad por la tecnología, se ha convertido en mi forma de construir mis propios proyectos. Me gusta meterle mano al código para que las cosas no solo funcionen, sino que se sientan bien al usarlas.
+
+*   **¿Qué hago?** Desarrollo web y herramientas digitales con un estilo visual marcado (Cyber-Glow).
+*   **¿Con qué trabajo?** Me muevo principalmente entre HTML, CSS, JavaScript y Kotlin, apoyándome en herramientas como Firebase y Vercel para que mis ideas cobren vida online.
+*   **Enfoque:** Más que solo programar, me gusta resolver problemas, ya sea creando sistemas de gestión para mi escuela o explorando nuevas formas de integrar IA en mis interfaces.
+
+---
+
+### Redes Sociales 📱
 
 <p align="center">
-  <!-- Aquí puedes insertar tus botones de redes sociales usando shields.io -->
-  <a href="TU_ENLACE_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="TU_ENLACE_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.youtube.com/@josuexsdevroblox"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.tiktok.com/@josuexs_oficial"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
 ---
 
-## Sobre mí ⚡
-
-*   🚀 **Estudiante y Programador autodidacta** en Venezuela.
-*   🎮 **Desarrollador Indie:** Enfocado en Roblox y juegos para móviles (Free Fire).
-*   🎨 **Estética:** Cyber-Glow / Dark Mode.
-*   🛠 **Tech Stack:** HTML, CSS, JavaScript, Kotlin, C++.
-*   📈 **Logro destacado:** Desarrollador de "Roba un Brainrot 2.0" (80,000+ visitas).
-
----
-
-## Tecnologías Conocidas 🛠
+### Stack con el que me siento cómodo 🛠
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,cpp,firebase,discord" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,firebase,vercel" />
 </p>
 
 ---
 
-## Conectemos 📬
-*   **Email:** [Tu correo aquí]
-*   **GitHub:** [github.com/josuexs](https://github.com/josuexs)
+### ¿En qué estoy ahora? 🚀
+
+Actualmente sigo dándole forma a mis proyectos personales y aprendiendo cada día algo nuevo. Si quieres ver en qué ando metido o probar mis despliegues, aquí tienes mis espacios:
+
+*   **GitHub:** [github.com/josuexs59](https://github.com/josuexs59)
+*   **Proyectos:** Revisa mis repositorios fijados aquí mismo.
 
 ---
-*Perfil actualizado: Junio 2026*
+*Si quieres contactarme o tienes alguna idea en mente, ¡escríbeme!*
